@@ -1,4 +1,7 @@
-# test coverage for  [grunt-browser-sync (v2.2.0)](https://github.com/shakyshane/grunt-browser-sync)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-browser-sync.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-browser-sync) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-browser-sync.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-browser-sync)
+# npmtest-grunt-browser-sync
+
+#### test coverage for  [grunt-browser-sync (v2.2.0)](https://github.com/shakyshane/grunt-browser-sync)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-browser-sync.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-browser-sync) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-browser-sync.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-browser-sync)
+
 #### Live CSS reload & Browser Syncing
 
 [![NPM](https://nodei.co/npm/grunt-browser-sync.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-browser-sync)

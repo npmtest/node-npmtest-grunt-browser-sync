@@ -1,6 +1,6 @@
 # npmtest-grunt-browser-sync
 
-#### test coverage for  [grunt-browser-sync (v2.2.0)](https://github.com/shakyshane/grunt-browser-sync)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-browser-sync.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-browser-sync) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-browser-sync.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-browser-sync)
+#### basic test coverage for  [grunt-browser-sync (v2.2.0)](https://github.com/shakyshane/grunt-browser-sync)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-browser-sync.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-browser-sync) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-browser-sync.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-browser-sync)
 
 #### Live CSS reload & Browser Syncing
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-browser-sync/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-browser-sync/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-browser-sync/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-browser-sync/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-browser-sync/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-browser-sync/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-grunt-browser-sync/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-grunt-browser-sync/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-browser-sync/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-browser-sync/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-grunt-browser-sync/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-browser-sync/build/coverage.html/index.html)
 
@@ -93,7 +93,8 @@
     "scripts": {
         "test": "jshint tasks/*.js"
     },
-    "version": "2.2.0"
+    "version": "2.2.0",
+    "bin": {}
 }
 ```
 
